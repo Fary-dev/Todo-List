@@ -2,4 +2,4 @@ workflows:
   Todo-List:
     name: Todo List workflow
     scripts:
-      - echo "Todo List!"
+      - echo "Todo App!"
