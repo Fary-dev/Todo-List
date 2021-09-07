@@ -57,7 +57,8 @@ class _MyHomePageState extends State<MyHomePage> {
                           child: Text(
                             'Add',
                             style: TextStyle(color: Colors.green),
-                          ))
+                          ),
+                      ),
                     ],
                   );
                 });
