@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Todo List',
+      title: 'Todo List App',
       theme: ThemeData(
         primarySwatch: Colors.amber,
       ),
@@ -57,7 +57,8 @@ class _MyHomePageState extends State<MyHomePage> {
                           child: Text(
                             'Add',
                             style: TextStyle(color: Colors.green),
-                          ))
+                          ),
+                      ),
                     ],
                   );
                 });

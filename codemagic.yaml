@@ -1,0 +1,5 @@
+workflows:
+  Todo-List:
+    name: Todo List workflow
+    scripts:
+      - echo "Todo App!"
