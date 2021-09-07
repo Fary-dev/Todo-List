@@ -1,5 +1,5 @@
 workflows:
   Todo-List:
-    name: Todo List
+    name: Todo List workflow
     scripts:
-      - echo "Welcome to Todo List CICD"
+      - echo "Todo List!"
