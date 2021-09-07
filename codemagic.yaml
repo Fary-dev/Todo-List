@@ -1,0 +1,5 @@
+workflows:
+  Todo-List:
+    name: Todo List
+    scripts:
+      - echo "Welcome to Todo List CICD"
